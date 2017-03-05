@@ -8,3 +8,5 @@ no fear
 no regret
 
 to be the first
+
+to be different
